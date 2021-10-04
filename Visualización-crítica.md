@@ -1,0 +1,2 @@
+![Infografía Jing Zhang](https://user-images.githubusercontent.com/90326459/135897098-eb19eed7-718c-4f13-910a-f3e46e485959.jpg)
+He escogido  este ejemplo por la originalidad de la inforgrafía. Así bien, consideo que esta imagen demuestra  el amplio uso que pueden tener las infografías. De este modo, estas  últimas, lejos  de ser una mera síntesis de datos, pueden ofrecer a los usuarios lecciones  sobre la vida cotidiana. Tales como las vinculadas a las tareas domésticas, a los deportes, o , como en este caso, a las  labores culinarias.
