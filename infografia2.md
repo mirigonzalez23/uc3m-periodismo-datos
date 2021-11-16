@@ -10,7 +10,7 @@ tecnológica ha llegado al periodismo para facilitar el principal
 objetivo de este último; mantener a la ciudadanía informada en todo 
 momento.
 
-Entre tanto, en la imagen se ha utiliado el color verde a la hora de representar los distintas dosis de vacunación por cada 100 habitantes administradas en los distintos países. El 
+Entre tanto, en la imagen se ha utilizado el color verde a la hora de representar los distintas dosis de vacunación por cada 100 habitantes administradas en los distintos países. El 
 color verde se caracteriza por ser símbolo de tranquilidad, es por ello que quizá se ha equiparado la tranquilidad transmitida por este color a la tranquilidad interpuesta por la 
 vacuna frente a la crisis de la co-vid19.
 
