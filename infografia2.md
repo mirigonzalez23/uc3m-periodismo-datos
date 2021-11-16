@@ -15,4 +15,4 @@ color verde se caracteriza por ser símbolo de tranquilidad, es por ello que qui
 vacuna frente a la crisis de la co-vid19.
 
 Así bien, las distintas tonalidades del mapa-mundi permiten a los usuarios comparar la situación de los distintos países en materia de vacunación contra la covid-19 con un simple golpe 
-de vista. Finalmente, para una mayor profundización en los datos, los ciudadanos deberán situar el pulsor sobre el país del que deseen conocer su situación de una forma más`profunda
+de vista. Finalmente, para una mayor profundización en los datos, los ciudadanos deberán situar el pulsor sobre el país del que deseen conocer su situación de una forma más profunda
