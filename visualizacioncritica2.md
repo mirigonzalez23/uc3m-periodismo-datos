@@ -1,3 +1,5 @@
+# Visualización crítica II
+
 https://www.datawrapper.de/_/rFCp5/
 
 Datawrapper es un programa que traduce el contenido de una fuente de información particular  a una forma relacional en la que los ordenadores  pueden procesar los datos utilizados más fácilmente. En este caso, el programa ha logrado sintetizar las cifras de vacunación a nivel mundial de una forma visual y sencilla.
