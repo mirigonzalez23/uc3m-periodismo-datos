@@ -21,7 +21,7 @@ En la pestaña de “Anotar” añadimos el título y la descripción a nuestro 
 
 ## Explicación gráfico 1:
 
-![Gráfico 1](imagenes/Gráfico 1. El suicidio en España año 2020.png)
+![Gráfico 1](https://github.com/mirigonzalez23/uc3m-periodismo-datos-miriam/blob/fd6e9a1239d816b4342a6026f9497cd7354cb8d5/imagenes/Gr%C3%A1fico%201.%20El%20suicidio%20en%20Espa%C3%B1a%20a%C3%B1o%202020.png)
 
 Tal y como hemos mencionado en el procedimiento, este gráfico tiene la intención de mostrrar la disparidad de las cifras de suicidio entre las distinas comunides y ciudades autónomas de España en función del sexo de los afectados .
 
@@ -44,7 +44,7 @@ Una vez ordenados los datos, en datawrapper escogeremos un gráfico de tipo “b
 
 ## Explicación gráfico 2:
 
-![Gráfico 2](imagenes/Gráfico 2. Las cifras del suicidio en España.png)
+![Gráfico 2](https://github.com/mirigonzalez23/uc3m-periodismo-datos-miriam/blob/2e187c0165ef865182d2778f216633080635ec7e/imagenes/Gr%C3%A1fico%202.%20Las%20cifras%20del%20suicidio%20en%20Espa%C3%B1a.png)
 
 Este segundo gráfico contrasta las cifras totales de suicidio en España en hombres y mujeres según los distintos grupos de edad.
 
