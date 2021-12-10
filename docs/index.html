@@ -51,12 +51,19 @@
           <li class="nav-item">
             <a class="nav-link active" aria-current="page" href="#">Home</a>
           </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#">Link</a>
+ <li class="nav-item">
+            <a class="nav-link" href="Actividad1.html">Actividad 1</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link disabled">Disabled</a>
+            <a class="nav-link" href="Actividad2.html">Actividad 2</a>
           </li>
+         <li class="nav-item">
+            <a class="nav-link" href="Actividad3.html">Actividad 3</a>
+          </li>
+         <li class="nav-item">
+            <a class="nav-link" href="memoria.html">Memoria Trabajo Final</a>
+          </li>
+
         </ul>
         <form class="d-flex">
           <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
@@ -88,67 +95,3 @@
       
   </body>
 </html>
-<h1 id="table-of-contents">Table of Contents</h1>
-<ol type="1">
-<li><a href="#orge80ef34">Contenidos</a>
-<ol type="1">
-<li><a href="#orgfbfe030">Pandoc</a></li>
-<li><a href="#orgd940798">nano</a></li>
-<li><a href="#orgb41739f">zenburn</a></li>
-<li><a href="#orga5904d6">OpenRefine</a>
-<ol type="1">
-<li><a href="#orgd197275">Cómo utilizar el conteo de las facetas</a></li>
-<li><a href="#org7843eb3">Crear una columna con los valores de otra columna</a></li>
-<li><a href="#org84a8ec7">Cómo sumar todos los valores de un registro</a></li>
-<li><a href="#org34e3957">Otras</a></li>
-</ol></li>
-</ol></li>
-<li><a href="#org0098996">Pruebas</a></li>
-</ol>
-<p><a id="orge80ef34"></a></p>
-<h1 id="contenidos">Contenidos</h1>
-<ul>
-<li>Pandoc</li>
-<li>nano</li>
-<li>zenburn</li>
-<li>Refine</li>
-</ul>
-<p><a id="orgfbfe030"></a></p>
-<h2 id="pandoc">Pandoc</h2>
-<ul>
-<li>Tiene una página donde se puede probar y da ejemplos</li>
-<li>Pero tenemos todo el manual con <code>man pandoc</code></li>
-<li>Se descarga de pandoc.org</li>
-<li>Una vez instalado, se puede usar desde la terminal. Ten en cuenta que si tienes la terminal abierta mientras lo instalas no se actualizarán las rutas de la variable <code>PATH</code> por lo que conviene cerrar la terminal y volver a abrirla.</li>
-<li>Recuerda que para ver la variable <code>PATH</code> puedes hacer <code>echo $PATH</code>.</li>
-<li>Y si no te lo ha incluido, puedes añadir la ruta a la variable con <code>export PATH=$PATH:/ruta/absoluta/a/directorio/binario/pandoc/</code>. Esto funcionará para la sesión. Si quieres que sea un cambio permanente debes añadirlo a <code>.bashrc</code> o <code>.zshrc</code> según tu <code>shell</code>.</li>
-<li>Puedes comprobar qué <code>shell</code> tienes con <code>echo $SHELL</code>.</li>
-<li>Comprueba que tienes pandoc con <code>pandoc --version</code>.</li>
-</ul>
-<p><a id="orgd940798"></a></p>
-<h2 id="nano">nano</h2>
-<ul>
-<li>Dado que estáis utilizando mucho nano os recomiendo dos cosas de nano que se pueden poner en su configuración.</li>
-<li>Primero comprobad que tenéis un archivo de configuración de <code>nano</code> con <code>ls ~/.nano* ~/nano*</code>. Si sale algo, echad un vistazo a ese archivo desde nano con <code>nano .nanorc</code>, si fuera <code>.nanorc</code> el nombre del archivo que tenéis.</li>
-<li>Tenéis que fijaros si tenéis comentadas o escritas dos opciones: <code>set softwrap</code> y <code>set linenumbers</code>. Escribidlo si no lo tenéis, guardadlo y salid. La próxima vez que entréis debéis tener ya las dos opciones activas.</li>
-</ul>
-<p><a id="orgb41739f"></a></p>
-<h2 id="zenburn">zenburn</h2>
-<ul>
-<li>Cuando se usa mucho tiempo la terminal conviene tener un tema agradable como puede ser <strong>Zenburn</strong>. Para instalarlo en Cygwin podéis seguir este <a href="https://github.com/beedaan/mintty_zenburn">enlace</a> o <a href="https://github.com/sonatard/color-theme-zenburn">este otro</a> que es el que he seguido en clase.</li>
-<li>Quien no tenga Cygwin sino Mintty (git-cli) también puede hacerlo.</li>
-<li>En GNOME (GNU/Linux) hay opción gráfica para cambiar el aspecto a Zenburn theme.</li>
-<li>En OSX hay opción gráfica aunque no sé si para Zenburn.</li>
-</ul>
-<p><a id="orga5904d6"></a></p>
-<h2 id="openrefine">OpenRefine</h2>
-<p>Voy a resumir las dos operaciones que había preparado más la que presentó el compañero Aguirre. Empezaré por esta.</p>
-<p><a id="orgd197275"></a></p>
-<h3 id="cómo-utilizar-el-conteo-de-las-facetas">Cómo utilizar el conteo de las facetas</h3>
-<pre><code>value.facetCount(&quot;value&quot;,&quot;Column 3&quot;)</code></pre>
-<p><a id="org7843eb3"></a></p>
-<h3 id="crear-una-columna-con-los-valores-de-otra-columna">Crear una columna con los valores de otra columna</h3>
-<pre><code>value = value.strip().lower()
-if &quot;trump&quot; in value:
-    return &quot;Donald Trump&quot;</code></pre>
-<p>&lt;a id=“org8</p>
